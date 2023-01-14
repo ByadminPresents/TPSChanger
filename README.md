@@ -5,4 +5,5 @@ and render(only in singleplayer) (tickrate setrender {value: 20 - default})
 ---Install---
 1) Put .jar file inside mods folder.
 2) Enjoy!
-P.S. You can actualy use this mod on server 
+
+P.S. You can actualy use this mod on server. (only operation tickrate modifying)
